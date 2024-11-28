@@ -1,0 +1,19 @@
+1)Instalar "Docker" para ejecutar el código en caso de tener Windows como sistema operativo.
+2)Abrir terminal Powershell.
+3)Desplazarse al folder que contiene Deckard (no el folder Deckard).
+4)Usar el comando "docker run --rm -it -v ${PWD}/Deckard:/home/deckard python:2.7 bash
+5)Comando: cd home/deckard/src/main/
+6)Comando: apt-get update
+7)Comando: apt-get install bison
+8)Comando: apt-get install flex
+9)Comando: apt-get install vim
+10)Comando: export DECKARD_DIR=/home/deckard
+11)Comando: export SRC_DIR=/home/deckard/samples
+12)Comando: cd ..
+13)Comando: cd ..
+14)Comando: cd samples
+15)Comando: vi config
+16)Comentados las secciones que dicen "TYPE_FILE", "RELEVANT NODE FILE", "LEAF_NODEFILE", "PARENT_NODEFILE".
+17)Cambbiar "DECKARD_DIR" a "=/home/deckard".
+18)Comando: :wq
+19)Comando:  /home/deckard/scripts/clonedetect/deckard.sh 

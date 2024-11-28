@@ -1,0 +1,392 @@
+
+real	0m0.000s
+user	0m0.000s
+sys	0m0.000s
+Parsing /home/deckard/samples/src/B1.java
+Parsing /home/deckard/samples/src/B10.java
+Parsing /home/deckard/samples/src/B11.java
+Parsing /home/deckard/samples/src/B12.java
+Parsing /home/deckard/samples/src/B13.java
+Parsing /home/deckard/samples/src/B14.java
+Parsing /home/deckard/samples/src/B15.java
+Parsing /home/deckard/samples/src/B16.java
+Parsing /home/deckard/samples/src/B17.java
+Parsing /home/deckard/samples/src/B19.java
+Parsing /home/deckard/samples/src/B2.java
+Merging parameters: Merging parameters: Merging parameters: Merging parameters: Merging parameters: Merging parameters: 303030303030Merging parameters: , , , , , Merging parameters: , Parsing /home/deckard/samples/src/B20.java
+3022222302, , , , , , , , 23333323, 
+
+
+
+
+Merging parameters: , 
+Parsing /home/deckard/samples/src/B3.java
+3303
+, 
+2, Parsing /home/deckard/samples/src/B4.java
+Merging parameters: 330
+, 2Parsing /home/deckard/samples/src/B5.java
+, Merging parameters: 3Merging parameters: 30Parsing /home/deckard/samples/src/B6.java
+
+30, , 22, Merging parameters: , 3Parsing /home/deckard/samples/src/B7.java
+303
+syntax error: 36.38
+
+, 2typeCount before init() = typeCount before init() = typeCount before init() = typeCount before init() = typeCount before init() = Parsing /home/deckard/samples/src/B8.java
+typeCount before init() = Merging parameters: typeCount before init() = 299299299, 299299syntax error: 204.1
+29930typeCount before init() = 299
+
+
+
+
+3
+, 299
+2
+
+typeCount before init() = , Merging parameters: typeCount before init() = Parsing /home/deckard/samples/src/B9.java
+2993Merging parameters: 29930
+
+30
+, , 2typeCount after init() = 299
+2, Parsing /home/deckard/samples/src/R1.java
+syntax error: 19.27
+Total counted terminals:256
+, 3syntax error: 19.31
+3Merging parameters: typeCount before init() = 
+
+30Parsing /home/deckard/samples/src/R10.java
+299, 
+2, typeCount after init() = 299
+3Parsing /home/deckard/samples/src/R11.java
+
+Merging parameters: Line range used: 30All , [20, Parsing /home/deckard/samples/src/R12.java
+, typeCount after init() = 299
+30typeCount before init() = Total counted terminals:478
+
+]Total counted terminals:396
+299
+
+Parsing /home/deckard/samples/src/R13.java
+typeCount after init() = 299
+# basic vectors:6
+Total nodes > 237 (some children of atomic nodes are skipped), # nodes in the Sq tree:82
+Parsing /home/deckard/samples/src/R14.java
+Total counted terminals:606
+typeCount after init() = 299
+Parsing /home/deckard/samples/src/R15.java
+Moved steps = 36, merged vectors = 18
+Total counted terminals:530
+Parsing /home/deckard/samples/src/R16.java
+# vectors:24, including must-gen nodes:6
+typeCount after init() = 299
+Total counted terminals:661
+Parsing /home/deckard/samples/src/R18.java
+typeCount after init() = 299
+Line range used: All Total counted terminals:646
+[0, 0]Line range used: All 
+[0typeCount after init() = 299
+, 0]Line range used: 
+Parsing /home/deckard/samples/src/R19.java
+All [Line range used: Total counted terminals:899
+Parsing /home/deckard/samples/src/R20.java
+Line range used: 0All Parsing /home/deckard/samples/src/R3.java
+All , [# basic vectors:11
+[0Parsing /home/deckard/samples/src/R2.java
+00# basic vectors:15
+Total nodes > 402 (some children of atomic nodes are skipped), # nodes in the Sq tree:142
+Line range used: , , typeCount before init() = Total nodes > 735 (some children of atomic nodes are skipped), # nodes in the Sq tree:270
+0typeCount before init() = All 0]299]]typeCount after init() = 299
+typeCount before init() = [typeCount before init() = 
+299
+299299
+
+
+typeCount before init() = 
+0Merging parameters: , Total counted terminals:314
+Merging parameters: 29930Merging parameters: Merging parameters: 0
+30
+Merging parameters: 30, Merging parameters: ]30, 2typeCount before init() = typeCount after init() = 299
+, Merging parameters: 30Merging parameters: Parsing /home/deckard/samples/src/R4.java
+# basic vectors:17
+302
+, , 299230, 30, 32
+Moved steps = 65, merged vectors = 33
+# basic vectors:11
+, , 2, Total counted terminals:856
+
+Merging parameters: # vectors:44, including must-gen nodes:11
+Merging parameters: , , 232, 2Total nodes > 852 (some children of atomic nodes are skipped), # nodes in the Sq tree:315
+Total nodes > 370 (some children of atomic nodes are skipped), # nodes in the Sq tree:133
+3030Line range used: 3, , 33
+, # basic vectors:18
+, , All 
+3
+33Parsing /home/deckard/samples/src/R5.java
+# basic vectors:14
+
+2[2
+
+
+, 0Total nodes > 588 (some children of atomic nodes are skipped), # nodes in the Sq tree:205
+3Total nodes > 808 (some children of atomic nodes are skipped), # nodes in the Sq tree:298
+, 
+0]
+Parsing /home/deckard/samples/src/R6.java
+Moved steps = 115, merged vectors = 58
+Moved steps = 68, merged vectors = 34
+# vectors:73, including must-gen nodes:15
+# vectors:45, including must-gen nodes:11
+# basic vectors:10
+, Total nodes > 357 (some children of atomic nodes are skipped), # nodes in the Sq tree:127
+3
+Parsing /home/deckard/samples/src/R7.java
+Parsing /home/deckard/samples/src/R8.java
+Moved steps = 96, merged vectors = 48
+# vectors:62, including must-gen nodes:14
+Line range used: Parsing /home/deckard/samples/src/R9.java
+All Moved steps = 53, merged vectors = 27
+Line range used: [typeCount after init() = 299
+# vectors:37, including must-gen nodes:10
+All 0[, 00, ]0
+]
+# basic vectors:18
+Total counted terminals:1763
+Moved steps = 138, merged vectors = 69
+# vectors:87, including must-gen nodes:18
+Total nodes > 1657 (some children of atomic nodes are skipped), # nodes in the Sq tree:672
+typeCount after init() = 299
+Total counted terminals:479
+# basic vectors:25
+Total nodes > 1001 (some children of atomic nodes are skipped), # nodes in the Sq tree:378
+typeCount after init() = 299
+Line range used: Total counted terminals:1609
+All [0, 0Moved steps = 148, merged vectors = 74
+]syntax error: 36.38
+typeCount after init() = 299
+
+typeCount before init() = 299typeCount before init() = syntax error: 204.1
+299typeCount before init() = typeCount before init() = 
+Total counted terminals:404
+299# vectors:91, including must-gen nodes:17
+typeCount before init() = 
+Merging parameters: typeCount before init() = typeCount before init() = 299# basic vectors:13
+30typeCount before init() = typeCount before init() = 
+299299Merging parameters: Merging parameters: Merging parameters: Line range used: 299
+299299
+typeCount before init() = Merging parameters: 
+Merging parameters: Total nodes > 494 (some children of atomic nodes are skipped), # nodes in the Sq tree:174
+, Line range used: 303030All 
+Merging parameters: 
+
+typeCount after init() = 299
+Merging parameters: 29930Merging parameters: 30All 2, , , [3030Merging parameters: 
+, 30, [, 2220, 30, 20Total counted terminals:354
+2, , 3, , , 2, 2, , , 323302, 
+, 303
+
+
+], 3, typeCount after init() = 299
+3
+]
+
+3
+3
+
+
+
+Total counted terminals:475
+Moved steps = 74, merged vectors = 37
+Line range used: All # basic vectors:8
+# vectors:50, including must-gen nodes:13
+typeCount after init() = 299
+[Moved steps = 180, merged vectors = 90
+0# vectors:115, including must-gen nodes:25
+Total nodes > 409 (some children of atomic nodes are skipped), # nodes in the Sq tree:141
+Total counted terminals:318
+Line range used: , 0All ][
+0, typeCount after init() = 299
+0# basic vectors:43
+Total counted terminals:934
+Line range used: ]All Line range used: Total nodes > 1773 (some children of atomic nodes are skipped), # nodes in the Sq tree:619
+typeCount after init() = 299
+Moved steps = 64, merged vectors = 32
+All 
+[[# vectors:40, including must-gen nodes:8
+Total counted terminals:478
+00, , 0# basic vectors:9
+0# basic vectors:41
+]typeCount after init() = 299
+
+Total nodes > 401 (some children of atomic nodes are skipped), # nodes in the Sq tree:140
+]
+Total nodes > 1980 (some children of atomic nodes are skipped), # nodes in the Sq tree:704
+# basic vectors:6
+Total counted terminals:576
+Total nodes > 374 (some children of atomic nodes are skipped), # nodes in the Sq tree:134
+Line range used: typeCount after init() = 299
+# basic vectors:14
+Total nodes > 473 (some children of atomic nodes are skipped), # nodes in the Sq tree:164
+Total counted terminals:899
+All Moved steps = 63, merged vectors = 32
+[0# vectors:41, including must-gen nodes:9
+typeCount after init() = 299
+, 0Line range used: ]Total counted terminals:646
+All 
+[0typeCount after init() = 299
+Moved steps = 69, merged vectors = 35
+, # vectors:49, including must-gen nodes:14
+0Total counted terminals:661
+Line range used: ]Moved steps = 175, merged vectors = 88
+Moved steps = 59, merged vectors = 30
+# basic vectors:11
+
+All # vectors:106, including must-gen nodes:18
+# vectors:36, including must-gen nodes:6
+[Total nodes > 370 (some children of atomic nodes are skipped), # nodes in the Sq tree:133
+Line range used: 0All typeCount after init() = 299
+Line range used: [Total counted terminals:530
+0, 0]# basic vectors:23
+
+typeCount after init() = 299
+Total counted terminals:256
+Total nodes > 1064 (some children of atomic nodes are skipped), # nodes in the Sq tree:371
+, Moved steps = 261, merged vectors = 131
+Moved steps = 68, merged vectors = 34
+# vectors:174, including must-gen nodes:43
+# vectors:45, including must-gen nodes:11
+typeCount after init() = 299
+All Line range used: [0All 0]Total counted terminals:396
+, 
+typeCount after init() = 299
+0Line range used: Line range used: Total counted terminals:856
+[]All All 
+[Line range used: # basic vectors:25
+[00All 0, , , [# basic vectors:16
+Total nodes > 1001 (some children of atomic nodes are skipped), # nodes in the Sq tree:378
+0000]]Total nodes > 573 (some children of atomic nodes are skipped), # nodes in the Sq tree:206
+, typeCount after init() = 299
+]# basic vectors:14
+
+
+0
+Total counted terminals:606
+Total nodes > 588 (some children of atomic nodes are skipped), # nodes in the Sq tree:205
+]
+Line range used: # basic vectors:6
+All [Total nodes > 237 (some children of atomic nodes are skipped), # nodes in the Sq tree:82
+0# basic vectors:15
+, 0Line range used: # basic vectors:11
+# basic vectors:17
+syntax error: 19.27
+Total nodes > 735 (some children of atomic nodes are skipped), # nodes in the Sq tree:270
+Moved steps = 169, merged vectors = 85
+]syntax error: 19.31
+Total nodes > 402 (some children of atomic nodes are skipped), # nodes in the Sq tree:142
+# vectors:108, including must-gen nodes:23
+typeCount before init() = typeCount before init() = typeCount before init() = 
+typeCount before init() = Total nodes > 852 (some children of atomic nodes are skipped), # nodes in the Sq tree:315
+299299299299
+typeCount before init() = 
+299
+
+
+Moved steps = 36, merged vectors = 18
+Moved steps = 96, merged vectors = 48
+typeCount before init() = typeCount before init() = # vectors:64, including must-gen nodes:16
+typeCount before init() = # vectors:24, including must-gen nodes:6
+typeCount before init() = 299299299299Moved steps = 313, merged vectors = 157
+All 
+
+
+
+# vectors:198, including must-gen nodes:41
+[typeCount after init() = 299
+Moved steps = 65, merged vectors = 33
+0typeCount before init() = Moved steps = 96, merged vectors = 48
+Total counted terminals:354
+, 299# vectors:62, including must-gen nodes:14
+# basic vectors:18
+# vectors:44, including must-gen nodes:11
+
+0Line range used: All ][Moved steps = 180, merged vectors = 90
+typeCount after init() = 299
+
+Total nodes > 1657 (some children of atomic nodes are skipped), # nodes in the Sq tree:672
+Total counted terminals:318
+# vectors:115, including must-gen nodes:25
+0, 0typeCount after init() = 299
+Line range used: Total counted terminals:464
+All [typeCount after init() = 299
+0Total counted terminals:576
+, 0]
+# basic vectors:6
+typeCount after init() = 299
+Total nodes > 374 (some children of atomic nodes are skipped), # nodes in the Sq tree:134
+Total counted terminals:314
+Line range used: # basic vectors:18
+Line range used: All All typeCount after init() = 299
+]Total nodes > 808 (some children of atomic nodes are skipped), # nodes in the Sq tree:298
+Line range used: 
+All Moved steps = 115, merged vectors = 58
+[[# vectors:73, including must-gen nodes:15
+Total counted terminals:404
+0[0, Moved steps = 148, merged vectors = 74
+00# vectors:91, including must-gen nodes:17
+, , # basic vectors:9
+00Total nodes > 401 (some children of atomic nodes are skipped), # nodes in the Sq tree:140
+]]]
+
+
+typeCount after init() = 299
+Line range used: All Total counted terminals:934
+[0Moved steps = 59, merged vectors = 30
+# basic vectors:10
+, # vectors:36, including must-gen nodes:6
+Total nodes > 357 (some children of atomic nodes are skipped), # nodes in the Sq tree:127
+# basic vectors:14
+0# basic vectors:16
+Total nodes > 468 (some children of atomic nodes are skipped), # nodes in the Sq tree:162
+typeCount after init() = 299
+]Total counted terminals:479
+
+Moved steps = 63, merged vectors = 32
+# vectors:41, including must-gen nodes:9
+Total nodes > 573 (some children of atomic nodes are skipped), # nodes in the Sq tree:206
+Moved steps = 53, merged vectors = 27
+typeCount after init() = 299
+# basic vectors:8
+# vectors:37, including must-gen nodes:10
+Total nodes > 409 (some children of atomic nodes are skipped), # nodes in the Sq tree:141
+Total counted terminals:1609
+typeCount after init() = 299
+Moved steps = 138, merged vectors = 69
+Line range used: Line range used: # vectors:87, including must-gen nodes:18
+All All [[Total counted terminals:1763
+0Moved steps = 68, merged vectors = 34
+0, # vectors:48, including must-gen nodes:14
+, Moved steps = 64, merged vectors = 32
+0# vectors:40, including must-gen nodes:8
+0]]
+
+# basic vectors:13
+Total nodes > 494 (some children of atomic nodes are skipped), # nodes in the Sq tree:174
+Moved steps = 96, merged vectors = 48
+# basic vectors:23
+# vectors:64, including must-gen nodes:16
+Moved steps = 74, merged vectors = 37
+Total nodes > 1064 (some children of atomic nodes are skipped), # nodes in the Sq tree:371
+# vectors:50, including must-gen nodes:13
+Line range used: All [0, 0]
+Moved steps = 169, merged vectors = 85
+# vectors:108, including must-gen nodes:23
+Line range used: All # basic vectors:43
+Moved steps = 175, merged vectors = 88
+[# vectors:106, including must-gen nodes:18
+0, 0]
+Total nodes > 1773 (some children of atomic nodes are skipped), # nodes in the Sq tree:619
+# basic vectors:41
+Total nodes > 1980 (some children of atomic nodes are skipped), # nodes in the Sq tree:704
+Moved steps = 261, merged vectors = 131
+# vectors:174, including must-gen nodes:43
+Moved steps = 313, merged vectors = 157
+# vectors:198, including must-gen nodes:41

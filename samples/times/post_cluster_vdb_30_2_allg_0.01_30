@@ -1,0 +1,5 @@
+Post processing clusters/cluster_vdb_30_2_allg_0.01_30 ...
+real	0m1.600s
+user	0m1.507s
+sys	0m0.010s
+Done post-processing clusters/cluster_vdb_30_2_allg_0.01_30. Log: times/post_cluster_vdb_30_2_allg_0.01_30

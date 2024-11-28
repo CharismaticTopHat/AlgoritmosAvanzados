@@ -1,0 +1,27 @@
+paramsetting: 30 2 0.01 ...Looking for optimal parameters by Clustering 'vectors/vdb_30_2_g6_5.449771_30_100000' 14.28076 ...
+/home/deckard/src/lsh/bin/enumBuckets -R 14.28076 -M 20000000 -b 2 -A -f vectors/vdb_30_2_g6_5.449771_30_100000 -c -p vectors/vdb_30_2_g6_5.449771_30_100000.param  >  clusters/cluster_vdb_30_2_g6_5.449771_30_100000
+Done clustering 'vectors/vdb_30_2_g6_5.449771_30_100000' 14.28076. Log: times/cluster_vdb_30_2_g6_5.449771_30_100000
+Setting Parameters for all other groups (may take hours on cygwin but only minutes on Linux...why?)...
+real	0m0.000s
+user	0m0.000s
+sys	0m0.000s
+/home/deckard/scripts/clonedetect/paramsetting_groupfile 30 2 0.01 vectors/vdb_30_2_g6_5.449771_30_100000 vectors/vdb_30_2_g10_5.449771_30_100000 
+/home/deckard/scripts/clonedetect/paramsetting_groupfile 30 2 0.01 vectors/vdb_30_2_g6_5.449771_30_100000 vectors/vdb_30_2_g11_5.449771_30_100000 
+/home/deckard/scripts/clonedetect/paramsetting_groupfile 30 2 0.01 vectors/vdb_30_2_g6_5.449771_30_100000 vectors/vdb_30_2_g12_5.449771_30_100000 
+/home/deckard/scripts/clonedetect/paramsetting_groupfile 30 2 0.01 vectors/vdb_30_2_g6_5.449771_30_100000 vectors/vdb_30_2_g13_5.449771_30_100000 
+/home/deckard/scripts/clonedetect/paramsetting_groupfile 30 2 0.01 vectors/vdb_30_2_g6_5.449771_30_100000 vectors/vdb_30_2_g14_5.449771_30_100000 
+/home/deckard/scripts/clonedetect/paramsetting_groupfile 30 2 0.01 vectors/vdb_30_2_g6_5.449771_30_100000 vectors/vdb_30_2_g15_5.449771_30_100000 
+/home/deckard/scripts/clonedetect/paramsetting_groupfile 30 2 0.01 vectors/vdb_30_2_g6_5.449771_30_100000 vectors/vdb_30_2_g16_5.449771_30_100000 
+/home/deckard/scripts/clonedetect/paramsetting_groupfile 30 2 0.01 vectors/vdb_30_2_g6_5.449771_30_100000 vectors/vdb_30_2_g17_5.449771_30_100000 
+/home/deckard/scripts/clonedetect/paramsetting_groupfile 30 2 0.01 vectors/vdb_30_2_g6_5.449771_30_100000 vectors/vdb_30_2_g18_5.449771_30_100000 
+/home/deckard/scripts/clonedetect/paramsetting_groupfile 30 2 0.01 vectors/vdb_30_2_g6_5.449771_30_100000 vectors/vdb_30_2_g19_5.449771_30_100000 
+/home/deckard/scripts/clonedetect/paramsetting_groupfile 30 2 0.01 vectors/vdb_30_2_g6_5.449771_30_100000 vectors/vdb_30_2_g1_5.449771_30_100000 
+/home/deckard/scripts/clonedetect/paramsetting_groupfile 30 2 0.01 vectors/vdb_30_2_g6_5.449771_30_100000 vectors/vdb_30_2_g2_5.449771_30_100000 
+/home/deckard/scripts/clonedetect/paramsetting_groupfile 30 2 0.01 vectors/vdb_30_2_g6_5.449771_30_100000 vectors/vdb_30_2_g3_5.449771_30_100000 
+/home/deckard/scripts/clonedetect/paramsetting_groupfile 30 2 0.01 vectors/vdb_30_2_g6_5.449771_30_100000 vectors/vdb_30_2_g4_5.449771_30_100000 
+/home/deckard/scripts/clonedetect/paramsetting_groupfile 30 2 0.01 vectors/vdb_30_2_g6_5.449771_30_100000 vectors/vdb_30_2_g5_5.449771_30_100000 
+/home/deckard/scripts/clonedetect/paramsetting_groupfile 30 2 0.01 vectors/vdb_30_2_g6_5.449771_30_100000 vectors/vdb_30_2_g6_5.449771_30_100000 
+/home/deckard/scripts/clonedetect/paramsetting_groupfile 30 2 0.01 vectors/vdb_30_2_g6_5.449771_30_100000 vectors/vdb_30_2_g7_5.449771_30_100000 
+/home/deckard/scripts/clonedetect/paramsetting_groupfile 30 2 0.01 vectors/vdb_30_2_g6_5.449771_30_100000 vectors/vdb_30_2_g8_5.449771_30_100000 
+/home/deckard/scripts/clonedetect/paramsetting_groupfile 30 2 0.01 vectors/vdb_30_2_g6_5.449771_30_100000 vectors/vdb_30_2_g9_5.449771_30_100000 
+Done paramsetting 30 2 0.01. Log: times/paramsetting_30_2_0.01_30

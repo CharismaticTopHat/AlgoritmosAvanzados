@@ -1,0 +1,32 @@
+Clustering 'vectors/vdb_30_2_g16_5.449771_30_100000' 57.94894 ...
+/home/deckard/src/lsh/bin/enumBuckets -R 57.94894 -M 10000000 -b 2 -A -f vectors/vdb_30_2_g16_5.449771_30_100000 -p vectors/vdb_30_2_g16_5.449771_30_100000.param  >  clusters/cluster_vdb_30_2_g16_5.449771_30_100000
+Warning: output all clones. Takes more time...
+Using the following R-NN DS parameters (from vectors/vdb_30_2_g16_5.449771_30_100000.param):
+N radii = 1, nPoints = 22
+R
+57.948940277
+Success probability
+0.899999976
+Dimension
+299
+R^2
+3358.080078125
+Use <u> functions
+1
+k
+4
+m [# independent tuples of LSH functions]
+5
+L
+10
+W
+4.000000000
+T
+22
+typeHT
+3
+
+real	0m0.041s
+user	0m0.000s
+sys	0m0.010s
+Done clustering 'vectors/vdb_30_2_g16_5.449771_30_100000' 57.94894. Log: times/cluster_vdb_30_2_g16_5.449771_30_100000

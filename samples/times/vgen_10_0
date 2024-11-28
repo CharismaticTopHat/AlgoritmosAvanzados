@@ -1,0 +1,278 @@
+
+real	0m0.000s
+user	0m0.000s
+sys	0m0.000s
+Parsing /home/deckard/samples/src/B1.java
+Parsing /home/deckard/samples/src/B10.java
+Parsing /home/deckard/samples/src/B11.java
+Parsing /home/deckard/samples/src/B12.java
+Parsing /home/deckard/samples/src/B13.java
+Parsing /home/deckard/samples/src/B14.java
+Parsing /home/deckard/samples/src/B15.java
+Parsing /home/deckard/samples/src/B16.java
+Parsing /home/deckard/samples/src/B17.java
+Parsing /home/deckard/samples/src/B19.java
+Parsing /home/deckard/samples/src/B2.java
+Merging parameters: Merging parameters: Merging parameters: Merging parameters: Merging parameters: Merging parameters: Merging parameters: Merging parameters: 1010101010101010, Merging parameters: , , Parsing /home/deckard/samples/src/B20.java
+, , , , , 0100Parsing /home/deckard/samples/src/B3.java
+000Parsing /home/deckard/samples/src/B4.java
+00, 0, , , , , , , 3, 0333333
+3, 
+
+
+
+
+
+
+3
+Merging parameters: Parsing /home/deckard/samples/src/B5.java
+10, 0, 3Merging parameters: Merging parameters: Parsing /home/deckard/samples/src/B6.java
+
+1010, , Parsing /home/deckard/samples/src/B7.java
+Merging parameters: 00Merging parameters: 10, , 10, 33syntax error: 36.38
+, Parsing /home/deckard/samples/src/B8.java
+0
+0
+, , syntax error: 204.1
+typeCount before init() = 3typeCount before init() = typeCount before init() = typeCount before init() = typeCount before init() = Parsing /home/deckard/samples/src/B9.java
+typeCount before init() = Merging parameters: 3299
+29929929929929910
+
+
+
+
+
+
+typeCount before init() = , typeCount before init() = 2990299typeCount before init() = Parsing /home/deckard/samples/src/R1.java
+
+, 
+2993
+
+Parsing /home/deckard/samples/src/R10.java
+Merging parameters: typeCount before init() = syntax error: 19.27
+10299syntax error: 19.31
+, Merging parameters: 
+010, Merging parameters: , typeCount after init() = 299
+3Parsing /home/deckard/samples/src/R11.java
+100typeCount before init() = 
+, 299, 3
+0Total counted terminals:478
+
+Merging parameters: typeCount before init() = , typeCount before init() = Parsing /home/deckard/samples/src/R12.java
+102993299, 
+typeCount before init() = 
+
+0299typeCount after init() = 299
+, 
+3
+Parsing /home/deckard/samples/src/R13.java
+typeCount after init() = 299
+Total counted terminals:256
+Total counted terminals:396
+Parsing /home/deckard/samples/src/R14.java
+Parsing /home/deckard/samples/src/R15.java
+typeCount after init() = 299
+Parsing /home/deckard/samples/src/R16.java
+Total counted terminals:530
+typeCount after init() = 299
+Line range used: All [Total counted terminals:606
+0Parsing /home/deckard/samples/src/R18.java
+, Line range used: 0typeCount after init() = 299
+All ]Parsing /home/deckard/samples/src/R19.java
+[
+0, Total counted terminals:646
+0typeCount after init() = 299
+Parsing /home/deckard/samples/src/R2.java
+]
+Line range used: Line range used: Total counted terminals:899
+Parsing /home/deckard/samples/src/R20.java
+All # basic vectors:22
+All [typeCount after init() = 299
+[00, , Total counted terminals:856
+# basic vectors:25
+0Line range used: 0All ]]Parsing /home/deckard/samples/src/R3.java
+[
+
+0Line range used: All [, typeCount before init() = 00Merging parameters: typeCount before init() = 299Merging parameters: 10299Parsing /home/deckard/samples/src/R4.java
+Parsing /home/deckard/samples/src/R5.java
+
+
+, ]Merging parameters: Merging parameters: 10, 010
+10, , 0Merging parameters: , , 3]Parsing /home/deckard/samples/src/R6.java
+100
+# basic vectors:12
+, , Merging parameters: 0
+0, 310Merging parameters: , 30# basic vectors:36
+
+
+, 103, , 
+30Line range used: 
+0All , [, 3Line range used: Merging parameters: 03
+All typeCount before init() = 10, 
+Parsing /home/deckard/samples/src/R8.java
+[299, 00]
+0# basic vectors:34
+
+, , 30
+Parsing /home/deckard/samples/src/R7.java
+typeCount after init() = 299
+]# basic vectors:39
+Total counted terminals:314
+
+Merging parameters: Merging parameters: Parsing /home/deckard/samples/src/R9.java
+1010, , typeCount before init() = 0typeCount before init() = 0Merging parameters: 299, 299, 1033
+, 
+
+
+Line range used: 0typeCount after init() = 299
+All , 3[
+Total counted terminals:661
+0# basic vectors:58
+, 0typeCount after init() = 299
+]
+Total counted terminals:479
+typeCount after init() = 299
+# basic vectors:49
+# basic vectors:18
+Total counted terminals:475
+typeCount after init() = 299
+Total counted terminals:934
+typeCount after init() = 299
+Line range used: Line range used: Line range used: All Total counted terminals:1609
+All All [[0[0, 0, 0, 0]]syntax error: 36.38
+
+typeCount before init() = 0typeCount after init() = 299
+typeCount before init() = 
+typeCount before init() = 299299
+typeCount before init() = typeCount before init() = 
+299
+typeCount before init() = ]Merging parameters: Merging parameters: syntax error: 204.1
+Merging parameters: Line range used: 29910Total counted terminals:404
+typeCount before init() = Merging parameters: 1010All 
+, typeCount before init() = Merging parameters: typeCount before init() = 10299, 2990[typeCount before init() = 29910typeCount after init() = 299
+Merging parameters: 299
+
+, 0
+, 0
+299, 10
+Merging parameters: 2990, 3, 
+0, 10
+, 0typeCount before init() = 3
+3, , 0, # basic vectors:31
+299
+Total counted terminals:318
+
+30]3
+
+, 
+Merging parameters: 
+3typeCount after init() = 299
+10Line range used: , 
+# basic vectors:36
+, All 00[, , 0Total counted terminals:576
+# basic vectors:29
+33, 
+
+0]
+typeCount after init() = 299
+Total counted terminals:856
+typeCount after init() = 299
+# basic vectors:18
+# basic vectors:51
+Total counted terminals:354
+Line range used: All Line range used: All Line range used: [Line range used: [All All 00[typeCount after init() = 299
+[, 0, 000, ]Total counted terminals:1763
+, 0]Line range used: typeCount after init() = 299
+]0
+
+All ]
+[0
+, Total counted terminals:530
+0]
+# basic vectors:14
+typeCount after init() = 299
+# basic vectors:17
+Total counted terminals:478
+# basic vectors:31
+typeCount after init() = 299
+Total counted terminals:396
+Line range used: All [0Line range used: typeCount after init() = 299
+, All [0Total counted terminals:314
+Line range used: # basic vectors:49
+0]All , 
+[00], 
+typeCount after init() = 299
+0# basic vectors:96
+]Total counted terminals:256
+
+Line range used: Line range used: All All [0[typeCount after init() = 299
+0, , 00# basic vectors:36
+]# basic vectors:22
+]
+
+Line range used: # basic vectors:25
+Total counted terminals:479
+All typeCount after init() = 299
+[Total counted terminals:661
+0, # basic vectors:18
+0Line range used: All [typeCount after init() = 299
+0], 
+Total counted terminals:899
+0Line range used: ]All 
+[0typeCount after init() = 299
+# basic vectors:12
+, Total counted terminals:606
+0]
+typeCount after init() = 299
+# basic vectors:29
+syntax error: 19.27
+syntax error: 19.31
+Total counted terminals:646
+typeCount before init() = typeCount before init() = Line range used: typeCount before init() = 299299299Line range used: # basic vectors:106
+typeCount before init() = typeCount before init() = 
+
+
+All All 299299[
+
+[typeCount before init() = 0299, 
+00typeCount before init() = ], 299
+
+# basic vectors:36
+0typeCount after init() = 299
+typeCount before init() = ]Total counted terminals:464
+
+299
+typeCount after init() = 299
+Line range used: All [0Total counted terminals:934
+, typeCount after init() = 299
+0]
+Total counted terminals:354
+# basic vectors:34
+Line range used: typeCount after init() = 299
+All # basic vectors:58
+[Total counted terminals:318
+typeCount after init() = 299
+0Total counted terminals:404
+, Line range used: Line range used: 0All All ][[
+0typeCount after init() = 299
+0, , 0Total counted terminals:576
+# basic vectors:39
+]0]
+Line range used: 
+Line range used: All typeCount after init() = 299
+[All 0, 0]
+# basic vectors:29
+typeCount after init() = 299
+[0Total counted terminals:1763
+# basic vectors:17
+# basic vectors:14
+, 0]
+Total counted terminals:1609
+# basic vectors:18
+# basic vectors:51
+Line range used: All [0, 0]
+# basic vectors:31
+Line range used: All [0, 0]
+Line range used: All [0, 0]
+# basic vectors:106
+# basic vectors:96

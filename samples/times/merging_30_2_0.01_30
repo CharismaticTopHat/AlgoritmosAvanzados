@@ -1,0 +1,5 @@
+Merging all clone reports into clusters/cluster_vdb_30_2_allg_0.01_30 ...
+real	0m0.261s
+user	0m0.138s
+sys	0m0.018s
+Done merging clusters/cluster_vdb_30_2_all_0.01_30. Log: times/merging_30_2_0.01_30
